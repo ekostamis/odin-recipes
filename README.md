@@ -2,6 +2,6 @@ In this project, I will learn how to create a site with different kind of recipe
 I will learn the following:
 - Using different git commands
 - Creating html files
-- Using lists and images in this html files
-- Setting up a folder structure for these html files and images
+- Using lists and images in these html files
+- Setting up a folder structure 
 - Creating links
